@@ -1,0 +1,6 @@
+run this in the terminal to install all needed packages
+
+npm i -D browser-sync browserify del gulp gulp-concat gulp-jshint gulp-uglify gulp-util jshint vinyl-source-stream gulp-plumber bower-files
+
+
+bower install jquery bootstrap moment --save
